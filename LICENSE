@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2026 Sohan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), including
+but not limited to the source code, trained AI models, web interfaces,
+configuration files, assets, and associated materials, to deal in the Software
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+2. Any modified versions of this Software must include clear documentation of
+the changes made from the original version.
+
+3. This Software is provided for educational, research, portfolio, and
+demonstration purposes. It must not be considered a certified medical system
+or professional healthcare product.
+
+4. The creators, contributors, or copyright holders of this Software shall not
+be held responsible for any incorrect medical interpretation, healthcare
+decision, diagnosis, treatment, loss, damage, or liability arising from the
+use of this Software.
+
+5. Users are solely responsible for ensuring compliance with local laws,
+medical regulations, and ethical AI practices when using or distributing this
+Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SECURITY, ACCURACY,
+RELIABILITY, OR PERFORMANCE. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, LIABILITY, OR OTHER LEGAL ACTION,
+WHETHER IN AN ACTION OF CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+git add LICENSE
+git commit -m "Added professional license"
+git push
