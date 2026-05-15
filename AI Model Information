@@ -1,0 +1,10 @@
+## 🧠 AI Model Information
+
+The project uses a Convolutional Neural Network (CNN) based on DenseNet121 architecture for pneumonia detection from chest X-ray images.
+
+### Model Details
+- Transfer Learning: DenseNet121
+- Framework: TensorFlow/Keras
+- Image Classification:
+  - NORMAL
+  - PNEUMONIA
