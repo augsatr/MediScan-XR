@@ -1,4 +1,4 @@
-# 🩻 MediScan XR
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/3485b60f-c144-4220-b410-f2826090045e" /># 🩻 MediScan XR
 
 An AI-powered web application for detecting **Pneumonia** from Chest X-Ray images using **Deep Learning** and **Flask**.
 
@@ -111,6 +111,11 @@ Display Prediction on Web Interface
 *JPEG
 *PNG
 *WEBP
+
+# project Model Images
+<img width="1919" height="1008" alt="Image" src="https://github.com/user-attachments/assets/1d796f2c-75e0-4d96-a845-529284cb51c2" />
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/0a295d5c-bf1f-4e81-b372-bb7827cb217c" />
+<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/22da034a-fbf7-4127-beb9-2de50850b392" />
 
 📈 Future Improvements
 
