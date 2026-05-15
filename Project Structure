@@ -1,0 +1,23 @@
+## 📂 Project Structure
+
+MediScan-XR/
+│
+├── dataset/
+│   └── train/
+│       ├── NORMAL/
+│       └── PNEUMONIA/
+│
+├── models/
+│   └── pneumonia_model.h5
+│
+├── static/
+│   └── uploads/
+│
+├── templates/
+│   └── index.html
+│
+├── main.py
+├── train.py
+├── model.py
+├── README.md
+└── LICENSE
